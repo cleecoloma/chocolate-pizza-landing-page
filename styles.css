@@ -1,0 +1,9 @@
+#author-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  #author-info img {
+    margin-right: 10px;
+  }
+  
