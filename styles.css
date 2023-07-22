@@ -1,25 +1,52 @@
+body {
+  margin: 0 20%;
+}
+
 #author-info {
-    display: flex;
-    align-items: center;
-  }
-  
-  #author-info img {
-    margin-right: 10px;
-  }
-  
-  h1 {
-    font-family: 'Pacifico', cursive;
-  }
+  display: flex;
+  align-items: center;
+}
 
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-    color: gray;
-  }
+#author-info img {
+  margin-right: 10px;
+}
 
-  #company-logo {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  
+h1 {
+  font-family: 'Pacifico', cursive;
+  margin: 0;
+  padding: 0;
+  line-height: 100%;
+}
 
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+}
+
+#company-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#text-wrap {
+  display: flex;
+}
+
+header {
+  margin: 20px 0;
+}
+
+#motto {
+  font-size: 30%;
+  margin: 0;
+  padding: 0;
+}
+
+#header-text {
+  margin-left: 10px;
+}
+
+.bar {
+  background-image: ;
+}
