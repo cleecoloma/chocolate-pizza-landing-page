@@ -11,13 +11,13 @@
 
 // recipeElement.addEventListener('click', handleClick);
 
-function handleClick() {
+// function handleClick() {
   // let liElement = document.getElementById('li');
   // liElement.setAttribute('id', '.clicked');
-  document.getElementById('li').style.textDecoration = 'line-through';
-}
+//   document.getElementById('li').style.textDecoration = 'line-through';
+// }
 
-const inputElement = document.getElementById('cb1');
-inputElement.onclick = function () {
-  handleClick();
-};
+// const inputElement = document.getElementById('cb1');
+// inputElement.onclick = function () {
+//   handleClick();
+// };

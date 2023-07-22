@@ -47,7 +47,6 @@ header {
 .bar {
   height: 15px;
   background-image: url('./img/hr-img.png');
-  /* margin-bottom: 50px; */
 }
 
 #pizza-picture {
