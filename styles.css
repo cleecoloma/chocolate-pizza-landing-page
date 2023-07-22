@@ -176,6 +176,13 @@ input[type=checkbox]:checked + span {
   font-size: 80%;
 }
 
+#share-button button:hover {
+  background-color: azure;
+  color: rgb(165, 73, 40);
+  border: thin solid rgb(165, 73, 40);
+  transition: 250ms;
+}
+
 hr {
   color: gray;
 }
@@ -194,5 +201,7 @@ hr {
   height: 30px;
   width: 30px;
   filter: grayscale(1);
-  bottom: 1.5rem;
+  bottom: 2rem;
+  padding: 8px;
+  background-color: white;
 }
