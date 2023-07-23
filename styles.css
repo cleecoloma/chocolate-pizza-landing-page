@@ -127,6 +127,10 @@ header {
   text-decoration: line-through;
 } */
 
+input[type='checkbox']:checked + span {
+  text-decoration: line-through;
+}
+
 .checked {
   text-decoration: line-through;
 }
