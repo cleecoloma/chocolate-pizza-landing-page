@@ -22,7 +22,7 @@ const checkboxes = document.querySelectorAll('input[type="checkbox"]');
 for (let i=0; i < checkboxes.length; i++){
     checkboxes[i].addEventListener('click', toggleStrikeThrough);
 }
-=======
+
 // const recipeElement = document.getElementById('input');
 // let liElement = document.getElementById('li');
 
