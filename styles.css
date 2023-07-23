@@ -123,6 +123,10 @@ header {
 }
 
 /* css way to line-through recipe list if checked */
+/* input[type='checkbox']:checked + span {
+  text-decoration: line-through;
+} */
+
 input[type='checkbox']:checked + span {
   text-decoration: line-through;
 }
